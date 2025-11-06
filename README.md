@@ -8,6 +8,6 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syihabb74&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syihabb74&layout=compact&theme=radical&langs_count=7)
 
 </div>

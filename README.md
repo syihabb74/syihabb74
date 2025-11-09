@@ -8,6 +8,6 @@
 
 ## 💻 Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyhabb74&show_icons=true&theme=radical&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syihabb74&show_icons=true&theme=radical&cache_seconds=7200)
 
 </div>

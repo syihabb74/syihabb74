@@ -1,9 +1,5 @@
 <div align="center">
 
-# 🏆 Codewars
-
-![Codewars](https://www.codewars.com/users/syihabb74/badges/large)
-
 
 ## 💻 Most Used Languages
 
